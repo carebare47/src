@@ -1,0 +1,32 @@
+[submodule "executive_smach"]
+	path = executive_smach
+	url = https://github.com/ros/executive_smach
+[submodule "executive_smach_tutorials"]
+	path = executive_smach_tutorials
+	url = https://github.com/eacousineau/executive_smach_tutorials
+[submodule "joystick_drivers"]
+	path = joystick_drivers
+	url = https://github.com/ros-drivers/joystick_drivers
+[submodule "navigation"]
+	path = navigation
+	url = https://github.com/ros-planning/navigation
+[submodule "navigation_layers"]
+	path = navigation_layers
+	url = https://github.com/DLu/navigation_layers
+[submodule "rosproxy"]
+	path = rosproxy
+	url = https://github.com/ecostech/rosproxy
+[submodule "rosserial"]
+	path = rosserial
+	url = https://github.com/ros-drivers/rosserial
+[submodule "rplidar_ros"]
+	path = rplidar_ros
+	url = https://github.com/robopeak/rplidar_ros
+[submodule "slam_gmapping"]
+	path = slam_gmapping
+	url = https://github.com/ros-perception/slam_gmapping
+[submodule "usb_cam"]
+	path = usb_cam
+	url = https://github.com/bosch-ros-pkg/usb_cam
+
+
